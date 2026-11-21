@@ -8,5 +8,6 @@ Example Pictures: <img width="1920" height="1080" alt="2026-11-21_11 56 36" src=
 
 <img width="1920" height="1080" alt="2026-11-21_15 29 21" src="https://github.com/user-attachments/assets/91b236a2-d902-4c39-8c55-5a4f8f243f1a" />
 
-<img width="1920" height="1080" alt="2026-11-19_00 12 34" src="https://github.com/user-attachments/assets/ad0d4548-becd-4bc2-a62e-3eab20e4e04e" />
+<img width="1920" height="1080" alt="2026-11-19_00 09 52" src="https://github.com/user-attachments/assets/b4594d37-1944-42ef-a8d8-c6460c936179" />
+
 
