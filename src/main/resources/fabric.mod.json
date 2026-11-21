@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "starglass_observer",
+  "version": "${version}",
+  "name": "Starglass: Observer",
+  "description": "A client side mod that adds astronomy to Minecraft",
+  "authors": ["GingerHotpot"],
+  "contact": {},
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.starglass.Starglass"]
+  },
+  "mixins": ["starglass_observer.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.18.0",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  },
+  "breaks": {
+    "starglass": "*"
+  }
+}
