@@ -10,4 +10,8 @@ Example Pictures: <img width="1920" height="1080" alt="2026-11-21_11 56 36" src=
 
 <img width="1920" height="1080" alt="2026-11-19_00 09 52" src="https://github.com/user-attachments/assets/b4594d37-1944-42ef-a8d8-c6460c936179" />
 
+<img width="1920" height="1080" alt="2026-11-21_17 33 54" src="https://github.com/user-attachments/assets/850ad9fe-0ed1-4229-8491-8adb50fea7d4" />
 
+<img width="1920" height="1080" alt="2026-11-21_17 32 37" src="https://github.com/user-attachments/assets/cf339d33-6979-4b00-be1c-d7635c2d6a11" />
+
+<img width="1920" height="1080" alt="2026-11-21_17 33 06" src="https://github.com/user-attachments/assets/70e5a38a-18de-4872-a874-23ebe50353f9" />
