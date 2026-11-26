@@ -23,4 +23,4 @@ your astronomical efforts!
 
 StarGlass requires Fabric for Minecraft Java 1.21.11 or 26.3 and can be loaded alongside shaders (although some shaders will greatly diminish starglasses sky)
 
-The Observer edition of StarGlass is specifically crafted for scientific astronomy roleplay and even more specifically on CivMC, Obsever has a radar function that can currently be activated only at the top of the Midoriheiki Radiotelescope, but in the future, with more adoption of this mod, more radio telescopes may be added.
+The Observer edition of StarGlass is specifically crafted for scientific astronomy roleplay and even more specifically on CivMC, Obsever has a radar function that can currently be activated only at the top of the Midoriheiki Radiotelescope, but in the future, with more adoption of this mod, more radio telescopes may be added, allowing wider availability of the radio functionality.
