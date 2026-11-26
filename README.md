@@ -15,3 +15,12 @@ Example Pictures: <img width="1920" height="1080" alt="2026-11-21_11 56 36" src=
 <img width="1920" height="1080" alt="2026-11-21_17 32 37" src="https://github.com/user-attachments/assets/cf339d33-6979-4b00-be1c-d7635c2d6a11" />
 
 <img width="1920" height="1080" alt="2026-11-21_17 33 06" src="https://github.com/user-attachments/assets/70e5a38a-18de-4872-a874-23ebe50353f9" />
+
+You can use coloured glass to filter your view and conduct deeper analysis of celestial bodies you take interest in!
+
+StarGlass uses an internal seed to ensure that everyone using StarGlass sees the same sky, meaning the more people using StarGlass, the more people can enjoy, and engage in
+your astronomical efforts!
+
+StarGlass requires Fabric for Minecraft Java 1.21.11 or 26.3 and can be loaded alongside shaders (although some shaders will greatly diminish starglasses sky)
+
+The Observer edition of StarGlass is specifically crafted for scientific astronomy roleplay and even more specifically on CivMC, Obsever has a radar function that can currently be activated only at the top of the Midoriheiki Radiotelescope, but in the future, with more adoption of this mod, more radio telescopes may be added.
